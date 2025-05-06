@@ -1,0 +1,26 @@
+Open 1st Terminal 
+Run following Command :
+```bash
+javac *.java
+```
+
+```bash
+rmiregistry
+```
+After the Cursor started Blinking 
+
+open 2nd Terminal 
+Run following Command :
+```bash
+java Server
+```
+The message will be printed Server started !!
+
+open 3rd Terminal
+Run following Command :
+
+```bash
+java Client
+```
+
+Output will be Displayed.!!
